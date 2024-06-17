@@ -1,0 +1,6 @@
+username: lolie
+mdp: lolie1097
+mail: lolie1097@gmail.com
+
+git config --global user.name "lolie"
+git config --global user.email lolieholitiana@gmail.com
